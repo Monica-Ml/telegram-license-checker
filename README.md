@@ -14,8 +14,8 @@ You can useing this code on your python projects
 
 ## Description
 
-when you need license checker on your python project
-By telegram without buying server
+- When you need license checker on your python project
+- By telegram without buying server
 
 ## Questions
 
