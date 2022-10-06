@@ -1,7 +1,7 @@
 # Telegram license checker
 You can useing this code on your python projects
 
-## How to get 'Bearer Token':
+## How to work:
 - 1-Change telegram bot token
 - 2-Change telegram channel id
 
