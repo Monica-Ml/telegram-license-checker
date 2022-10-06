@@ -1,5 +1,5 @@
 # Telegram license checker
-You can useing this code in your python projects
+You can useing this code on your python projects
 
 ## How to get 'Bearer Token':
 - 1-Change telegram bot token
@@ -14,7 +14,8 @@ You can useing this code in your python projects
 
 ## Description
 
-when you need license on your python project by telegram
+when you need license checker on your python project
+By telegram without buying server
 
 ## Questions
 
